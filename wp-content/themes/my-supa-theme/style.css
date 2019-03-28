@@ -1,6 +1,10 @@
 /**
- * #.# Common CSS
+ * Common CSS
  *
  * Can include things like variables and mixins
  * that are used across the project.
 */
+
+body {
+	background: #c1c1c1;
+}
