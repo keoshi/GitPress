@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/mutelife-galeria"]
+	path = wp-content/plugins/mutelife-galeria
+	url = https://github.com/keoshi/mutelife-galeria
